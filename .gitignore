@@ -43,4 +43,4 @@ app.*.map.json
 /android/app/release
 
 # My Files
-lib\core\constants\app_secrets.dart
+/lib/core/constants/app_secrets.dart
