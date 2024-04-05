@@ -17,6 +17,17 @@
 7. **[supabase_flutter: ^2.3.4](https://www.pub.dev/packages/supabase_flutter) (supabase)**  
 8. **[intl: ^0.19.0](https://www.pub.dev/packages/intl) (date formatting)**  
 9. **[uuid: ^4.3.3](https://www.pub.dev/packages/uuid) (unique ids)**  
+1. **[flutter_bloc: ^8.1.5](https://www.pub.dev/packages/flutter_bloc) (state management)**  
+2. **[fpdart: ^1.1.0](https://www.pub.dev/packages/fpdart) (functional programming)**  
+3. **[get_it: ^7.6.7](https://www.pub.dev/packages/get_it) (dependency injection)**  
+4. **(local storage)**  
+    i. [**hive: ^4.0.0-dev.2**](https://www.pub.dev/packages/hive)  
+    ii. [**path_provider: ^2.1.0**](https://www.pub.dev/packages/path_provider)  
+5. **[image_picker: ^1.0.7](https://www.pub.dev/packages/image_picker) (image picker)**  
+6. **[internet_connection_checker_plus: 2.2.0](https://www.pub.dev/packages/internet_connection_checker_plus) (network and connectivity)**  
+7. **[supabase_flutter: ^2.3.4](https://www.pub.dev/packages/supabase_flutter) (supabase)**  
+8. **[intl: ^0.19.0](https://www.pub.dev/packages/intl) (date formatting)**  
+9. **[uuid: ^4.3.3](https://www.pub.dev/packages/uuid) (unique ids)**  
 
 ### Folder structure used in project:
 ```
